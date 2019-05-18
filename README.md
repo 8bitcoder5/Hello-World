@@ -1,2 +1,3 @@
 # Hello-World
-Testing repo
+Testing
+Using Git on through a browser is interesting. 
